@@ -2,7 +2,7 @@
 
 **Type:** Easy <br>
 **Topics:** Database <br>
-**Companies:** Bloomberg, Meta, Microsoft, Amazon, Roblox, Yahoo, Adobe, Google, Apple, Uber, tcs
+**Companies:**  Bloomberg, Meta, Microsoft, Amazon, Roblox, Yahoo, Adobe, Google, Apple, Uber, tcs
 <hr>
 
 Table: `Students`
